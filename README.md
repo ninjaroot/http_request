@@ -1,3 +1,8 @@
+mobile app qt
+server side node.js
+
+
+
 #to start node.js server
 $ cd nodejs_server
 
@@ -6,4 +11,3 @@ $ npm install
 
 # to run the server
 $ node /bin/www
-############################
